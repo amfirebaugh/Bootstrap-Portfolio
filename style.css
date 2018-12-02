@@ -8,6 +8,14 @@
     padding: 0;
 }
 
+#bootstrap-overrides .nav-link {
+    color: #666666;
+}
+
+#bootstrap-overrides .nav-link-active {
+    color: #4aaaa5;
+}
+
 #allieNav {
     width: 100%;
     margin: auto;
@@ -28,6 +36,7 @@
     font-weight: 500;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 28px;
+    margin: auto;
 }
 
 #bootstrap-overrides .navbar-brand {
@@ -103,7 +112,7 @@
     padding: 10px;
 }
 
-#bootstrap-overrides a {
+#bootstrap-overrides .cardLinks {
     color: white;
 }
 
